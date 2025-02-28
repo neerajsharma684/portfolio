@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.039bf95e.css",
-    "main.js": "/portfolio/static/js/main.c62e9866.js",
+    "main.js": "/portfolio/static/js/main.9c207942.js",
     "static/media/Hello.gif": "/portfolio/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/Neeraj_Sharma.png": "/portfolio/static/media/Neeraj_Sharma.d3635ac38849e8767452.png",
-    "static/media/Resume_Neeraj_Sharma.pdf": "/portfolio/static/media/Resume_Neeraj_Sharma.a86358dee38745d59d94.pdf",
+    "static/media/Resume_Neeraj_Sharma.pdf": "/portfolio/static/media/Resume_Neeraj_Sharma.2db9c0f162beede175cc.pdf",
     "static/media/illustration.svg": "/portfolio/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
     "static/media/mysql-icon.svg": "/portfolio/static/media/mysql-icon.64f88a817c7f8c20c853ea3acbca9310.svg",
     "static/media/node-icon.svg": "/portfolio/static/media/node-icon.cc3d45a160579a330a5c17cc2c8f1407.svg",
@@ -28,10 +28,10 @@
     "static/media/js-icon.svg": "/portfolio/static/media/js-icon.2d25723e91c8a9e057ae447ae6a73ecb.svg",
     "static/media/vue-icon.svg": "/portfolio/static/media/vue-icon.7219cc0384993fc067ee20c94a66b1e9.svg",
     "main.039bf95e.css.map": "/portfolio/static/css/main.039bf95e.css.map",
-    "main.c62e9866.js.map": "/portfolio/static/js/main.c62e9866.js.map"
+    "main.9c207942.js.map": "/portfolio/static/js/main.9c207942.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.c62e9866.js"
+    "static/js/main.9c207942.js"
   ]
 }
