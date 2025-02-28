@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.039bf95e.css",
-    "main.js": "/portfolio/static/js/main.9c207942.js",
+    "main.js": "/portfolio/static/js/main.295b5952.js",
     "static/media/Hello.gif": "/portfolio/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/Neeraj_Sharma.png": "/portfolio/static/media/Neeraj_Sharma.d3635ac38849e8767452.png",
     "static/media/Resume_Neeraj_Sharma.pdf": "/portfolio/static/media/Resume_Neeraj_Sharma.2db9c0f162beede175cc.pdf",
@@ -19,7 +19,6 @@
     "static/media/shopify.svg": "/portfolio/static/media/shopify.6844408d4c13f2222031ef679e05c95e.svg",
     "static/media/github.svg": "/portfolio/static/media/github.d344c0fc70ddfb6de253ddc40adcb086.svg",
     "static/media/email-icon.svg": "/portfolio/static/media/email-icon.a5dd245e834641e729e77e40309039c4.svg",
-    "static/media/external-link.svg": "/portfolio/static/media/external-link.8ce0d189635b118259ec51d8c9b4a1d0.svg",
     "static/media/excel-icon.svg": "/portfolio/static/media/excel-icon.bf3d7d821daee386693c340e0ecb64b1.svg",
     "static/media/html-icon.svg": "/portfolio/static/media/html-icon.185baee7db74b83bf22eec6a6def7644.svg",
     "static/media/css-icon.svg": "/portfolio/static/media/css-icon.212d777ae2db63edb235490d487dc292.svg",
@@ -28,10 +27,10 @@
     "static/media/js-icon.svg": "/portfolio/static/media/js-icon.2d25723e91c8a9e057ae447ae6a73ecb.svg",
     "static/media/vue-icon.svg": "/portfolio/static/media/vue-icon.7219cc0384993fc067ee20c94a66b1e9.svg",
     "main.039bf95e.css.map": "/portfolio/static/css/main.039bf95e.css.map",
-    "main.9c207942.js.map": "/portfolio/static/js/main.9c207942.js.map"
+    "main.295b5952.js.map": "/portfolio/static/js/main.295b5952.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.9c207942.js"
+    "static/js/main.295b5952.js"
   ]
 }
